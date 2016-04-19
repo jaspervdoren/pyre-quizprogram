@@ -1,3 +1,4 @@
+@@ -3,20 +3,32 @@
 # pyre-quizprogram
 
  pyretest.py is a small program running  in python, based on the zyre communication.
